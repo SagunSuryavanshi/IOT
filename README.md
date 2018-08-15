@@ -1,2 +1,2 @@
 # IOT
-Implementation of IOT basic projects
+Implementation of IOT sensors
